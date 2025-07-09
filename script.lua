@@ -1,7 +1,7 @@
 --Full open source lol skid
 
 
-local Library = loadstring(game:HttpGet(""))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/rrusssssiann-chattttgpppt-teleglllramS/Katrblx/refs/heads/main/Librarykavoui.lua"))()
 
 
 
